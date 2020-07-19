@@ -1,2 +1,0 @@
-# hugo-source
-hugo-source
