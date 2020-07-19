@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: andyhatman-public
 theme: "toha"
 
 # Allow raw html in markdown file
@@ -40,15 +40,15 @@ params:
 
   # some information about you
   author:
-    name: "Jane Doe"
-    nickname: "Jane"
+    name: "Andy Hatman"
+    nickname: "Andy"
     image: "images/avatar.png"
     # give your some contact information. they will be used in the footer
     contactInfo:
-      email: "janedoe@example.com"
-      phone: "+0123456789"
+      email: "andyhatman@example.com"
+      phone: "8888"
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
-    - I love to work with some fun projects
+    - I am a DevOps
+    - I work with pot
+    - I don't want to explain
