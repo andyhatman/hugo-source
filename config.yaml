@@ -50,5 +50,5 @@ params:
     # a summary of what you do
     summary:
     - I am a DevOps
-    - I work with pot
-    - I don't want to explain
+    - I work with kubernetes
+    - I work with clouds
