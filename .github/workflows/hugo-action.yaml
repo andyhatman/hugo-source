@@ -26,5 +26,11 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          # Change the values to your Github Pages repo
+          external_repository: andyhatman/andyhatman.github.io
+          publish_branch: master
           publish_dir: ./public
+          # Define commit username/email to the Github Action bot
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
