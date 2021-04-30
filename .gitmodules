@@ -1,7 +1,3 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:andyhatman/andyhatman.github.io.git
-	branch = master
 [submodule "themes/toha"]
 	path = themes/toha
 	url = https://github.com/hossainemruz/toha.git
