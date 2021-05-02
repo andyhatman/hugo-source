@@ -16,55 +16,43 @@ company:
 resume: "files/resume_1.pdf"
 
 # a summary about you
-summary: 'I am a DevOps'
+summary: 'Uncovering better ways of running systems.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "#"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://github.com/andyhatman"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
   url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Kubernetes
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
-- name: Communication
+- name: GCP
   percentage: 70
+  color: blue
+- name: Kubernetes
+  percentage: 70
+  color: yellow
+- name: Python
+  percentage: 50
   color: pink
-- name: Hard Working
-  percentage: 85
+- name: Docker
+  percentage: 70
   color: green
-- name: Fast Learner
+- name: CI/CD
   percentage: 85
   color: sky
-- name: Problem Solving
+- name: Communication
   percentage: 85
   color: orange
 # you can also provide color code instead of pre-defined color name

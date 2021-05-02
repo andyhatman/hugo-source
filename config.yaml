@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://andyhatman.github.io
 languageCode: en-us
-title: andyhatman-public
+title: Andy's Blog
 theme: "toha"
 
 # Allow raw html in markdown file
@@ -40,14 +40,16 @@ params:
 
   # some information about you
   author:
-    name: "Andi Shliapin"
+    name: "Andrei Shliapin"
     nickname: "Andy"
     image: "images/avatar.png"
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "andyhatman_ad_gmail.com"
       phone: "8888"
+      
     # a summary of what you do
+    greeting: "Welcome"
     summary:
     - A robot may not injure a human being or, through inaction, allow a human being to come to harm.
     - A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
